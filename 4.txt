@@ -1,1 +1,2 @@
 test file for clone
+This file is modified by parent
