@@ -1,2 +1,3 @@
 test file for clone
-none
+This file is modified by parent
+new
